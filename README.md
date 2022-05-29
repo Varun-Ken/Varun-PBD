@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Varun-PBD
 - 👀 I’m interested in Web Development & Cloud Computing
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Python & JS
